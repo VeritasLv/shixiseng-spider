@@ -1,8 +1,20 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+
+"""
+Life's pathetic, Let's happy coding.
+@author: VeritasLv
+@date: Nov 4, 2018
+@email: 845235111@qq.com
+"""
+
+
+
 import requests
 from bs4 import BeautifulSoup
 from pyquery import PyQuery as pq
 import time 
-import re
 import random
 import pymongo
 from config import *
